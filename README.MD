@@ -1,2 +1,2 @@
 # Hello, World!
-The tradition first program.
+The traditional first program.
