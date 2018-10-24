@@ -11,7 +11,7 @@ main(int argc,
 
     try {
 
-        throw runtime_error("hello");
+        cout << "Hello, World!" << endl;
 
     } catch (const exception& e) {
         cerr << "*** Error: " << e.what() << endl;
